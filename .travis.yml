@@ -3,6 +3,10 @@
 
 language: go
 
+os:
+  - osx
+  - linux
+
 # Use the virtualized Trusty beta Travis is running in order to get support for
 # installing fuse.
 #
