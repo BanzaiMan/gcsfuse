@@ -20,9 +20,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/googlecloudplatform/gcsfuse/lease"
-	"github.com/googlecloudplatform/gcsfuse/lease/mock_lease"
-	"github.com/googlecloudplatform/gcsfuse/mutable"
+	"github.com/GoogleCloudPlatform/gcsfuse/lease"
+	"github.com/GoogleCloudPlatform/gcsfuse/lease/mock_lease"
+	"github.com/GoogleCloudPlatform/gcsfuse/mutable"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/oglemock"
 	. "github.com/jacobsa/ogletest"

@@ -22,8 +22,8 @@ import (
 	"golang.org/x/net/context"
 	"golang.org/x/sys/unix"
 
-	"github.com/googlecloudplatform/gcsfuse/fs"
-	"github.com/googlecloudplatform/gcsfuse/perms"
+	"github.com/GoogleCloudPlatform/gcsfuse/fs"
+	"github.com/GoogleCloudPlatform/gcsfuse/perms"
 	"github.com/jacobsa/fuse"
 	"github.com/jacobsa/fuse/fsutil"
 	"github.com/jacobsa/gcloud/gcs"

@@ -28,8 +28,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/googlecloudplatform/gcsfuse/fs"
-	"github.com/googlecloudplatform/gcsfuse/perms"
+	"github.com/GoogleCloudPlatform/gcsfuse/fs"
+	"github.com/GoogleCloudPlatform/gcsfuse/perms"
 	"github.com/jacobsa/fuse"
 	"github.com/jacobsa/gcloud/gcs"
 	"github.com/jacobsa/gcloud/gcs/gcsfake"

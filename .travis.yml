@@ -52,7 +52,3 @@ install: true
 #             /home/travis/gopath/src/github.com/googlecloudplatform/gcsfuse/fs (from $GOPATH)
 #
 # Fix this by renaming the directory before testing.
-script:
-  - cd $GOPATH/src/github.com/
-  - mv GoogleCloudPlatform googlecloudplatform
-  - go test -v github.com/googlecloudplatform/gcsfuse/...

@@ -18,7 +18,7 @@ import (
 	"os"
 	"time"
 
-	mountpkg "github.com/googlecloudplatform/gcsfuse/mount"
+	mountpkg "github.com/GoogleCloudPlatform/gcsfuse/mount"
 	"github.com/jgeewax/cli"
 )
 

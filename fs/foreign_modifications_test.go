@@ -30,7 +30,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/googlecloudplatform/gcsfuse/fs/inode"
+	"github.com/GoogleCloudPlatform/gcsfuse/fs/inode"
 	"github.com/jacobsa/fuse/fusetesting"
 	"github.com/jacobsa/gcloud/gcs"
 	"github.com/jacobsa/gcloud/gcs/gcsutil"
