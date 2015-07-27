@@ -19,7 +19,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/GoogleCloudPlatform/gcsfuse/lease"
+	"github.com/BanzaiMan/gcsfuse/lease"
 	"github.com/jacobsa/timeutil"
 	"golang.org/x/net/context"
 )

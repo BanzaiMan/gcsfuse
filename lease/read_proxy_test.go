@@ -24,8 +24,8 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/GoogleCloudPlatform/gcsfuse/lease"
-	"github.com/GoogleCloudPlatform/gcsfuse/lease/mock_lease"
+	"github.com/BanzaiMan/gcsfuse/lease"
+	"github.com/BanzaiMan/gcsfuse/lease/mock_lease"
 	. "github.com/jacobsa/oglematchers"
 	. "github.com/jacobsa/oglemock"
 	. "github.com/jacobsa/ogletest"

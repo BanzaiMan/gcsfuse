@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/GoogleCloudPlatform/gcsfuse/fs/inode"
+	"github.com/BanzaiMan/gcsfuse/fs/inode"
 	"github.com/jacobsa/fuse"
 	"github.com/jacobsa/fuse/fuseops"
 	"github.com/jacobsa/fuse/fuseutil"

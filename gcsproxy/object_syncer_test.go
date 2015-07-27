@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/GoogleCloudPlatform/gcsfuse/lease"
-	"github.com/GoogleCloudPlatform/gcsfuse/mutable"
+	"github.com/BanzaiMan/gcsfuse/lease"
+	"github.com/BanzaiMan/gcsfuse/mutable"
 	"github.com/jacobsa/gcloud/gcs"
 	"github.com/jacobsa/gcloud/gcs/gcsfake"
 	. "github.com/jacobsa/oglematchers"

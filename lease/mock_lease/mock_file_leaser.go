@@ -8,7 +8,7 @@ package mock_lease
 
 import (
 	fmt "fmt"
-	lease "github.com/GoogleCloudPlatform/gcsfuse/lease"
+	lease "github.com/BanzaiMan/gcsfuse/lease"
 	oglemock "github.com/jacobsa/oglemock"
 	runtime "runtime"
 	unsafe "unsafe"

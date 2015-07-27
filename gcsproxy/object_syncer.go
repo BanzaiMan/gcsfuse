@@ -18,8 +18,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/GoogleCloudPlatform/gcsfuse/lease"
-	"github.com/GoogleCloudPlatform/gcsfuse/mutable"
+	"github.com/BanzaiMan/gcsfuse/lease"
+	"github.com/BanzaiMan/gcsfuse/mutable"
 	"github.com/jacobsa/gcloud/gcs"
 	"golang.org/x/net/context"
 )

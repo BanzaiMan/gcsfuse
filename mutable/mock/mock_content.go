@@ -8,8 +8,8 @@ package mock_mutable
 
 import (
 	fmt "fmt"
-	lease "github.com/GoogleCloudPlatform/gcsfuse/lease"
-	mutable "github.com/GoogleCloudPlatform/gcsfuse/mutable"
+	lease "github.com/BanzaiMan/gcsfuse/lease"
+	mutable "github.com/BanzaiMan/gcsfuse/mutable"
 	oglemock "github.com/jacobsa/oglemock"
 	context "golang.org/x/net/context"
 	runtime "runtime"
